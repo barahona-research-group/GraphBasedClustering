@@ -6,12 +6,13 @@ Zijing Liu
 
 Introduction
 ------------
-This contains the MATLAB codes for graph-based clustering via Markov Stability. For an illustration, have a look at the notebook [MarkovStabilityClustering.ipynb](https://github.com/barahona-research-group/GraphBasedClustering/blob/master/MarkovStabilityClustering.ipynb)
+This contains the MATLAB codes for graph-based clustering via Markov Stability (https://wwwf.imperial.ac.uk/~mpbara/Partition_Stability/).
+For an illustration, have a look at the notebook [MarkovStabilityClustering.ipynb](https://github.com/barahona-research-group/GraphBasedClustering/blob/master/MarkovStabilityClustering.ipynb)
 *  script_clustering_paper.m - the example file for running the framework, same as the notebook. 
-*  test_graph_build.m - test different graph constructions
+*  test_graph_build.m - test different graph constructions.
 *  othercompare.m - clustering using other methods.
-*  matlab/ - Matlab codes for graph construction, Markov Stability and two spectral clustering
-*  Data/ - public and generated datasets
+*  matlab/ - Matlab codes for graph construction, Markov Stability and two spectral clustering methods.
+*  Data/ - public and generated datasets.
 
 
 Citation
