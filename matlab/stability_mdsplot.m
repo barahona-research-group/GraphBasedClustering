@@ -52,7 +52,6 @@ hold on
 colormap(jet(round(n_L*4/3)))
 cmap = colormap;
 cmap = cmap(round(n_L/6):round(n_L/6)+n_L,:);
-cmap = cmap(end:-1:1,:);
 %colormap(jet(round(n_L*2)))
 %cmap = colormap;
 %cmap = cmap(round(n_L):n_L+n_L,:);
